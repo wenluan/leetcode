@@ -24,4 +24,3 @@ function subarraySum(nums: number[], k: number): number {
 
 const arr = [1,1,1];
 const result2 = subarraySum(arr, 2);
-console.log(result2);

@@ -9,7 +9,7 @@
             "request": "launch",
             "name": "Launch Program",
             "runtimeExecutable": "/usr/local/bin/node",
-            "program": "${workspaceFolder}/solveNQueens.ts",
+            "program": "${workspaceFolder}/exist.ts",
             "preLaunchTask": "tsc: build - tsconfig.json",
             "outFiles": ["${workspaceFolder}/out/**/*.js"]
         }
