@@ -1,4 +1,4 @@
-/** 盛水最多的容器 */
+/** 11. 盛水最多的容器 */
 /** 双指针 */
 
 function maxArea(height: number[]): number {

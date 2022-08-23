@@ -1,4 +1,4 @@
-/** 无重复字符的最大子串 */
+/** 3. 无重复字符的最大子串 */
 
 function lengthOfLongestSubstring(s: string): number {
   // 滑动窗口
